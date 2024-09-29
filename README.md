@@ -1,3 +1,4 @@
+![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 # 💫 About Me:
 Hi, I'm Yash Joshi! 👋<br><br>🚀 Aspiring DevOps Engineer currently studying Computer Engineering, specializing in Java, Spring Boot, and Hibernate</br><br>🎥 Sharing my progress and learnings on automation, cloud infrastructure, and DevOps tools</br><br>💻 #devopsengineeringjourney in my digital space here</br><br>📚 Currently learning Terraform and Jenkins to master automation and cloud-native infrastructure</br>
 
