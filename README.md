@@ -1,24 +1,80 @@
-![](Git_Gif/gifgit.gif)
-# 💫 About Me:
-Hi, I'm Yash Joshi! 👋<br><br>🚀 Aspiring DevOps Engineer currently studying Computer Engineering, specializing in Java, Spring Boot, and Hibernate</br><br>🎥 Sharing my progress and learnings on automation, cloud infrastructure, and DevOps tools</br><br>💻 #devopsengineeringjourney in my digital space here</br><br>📚 Currently learning Terraform and Jenkins to master automation and cloud-native infrastructure</br>
+# Yash Joshi
 
+**AI Engineer @Salhakar AI**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashjoshiatin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/yashjoshi_in)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Yash.Joshi.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashjoshi.in) 
+I build AI applications and the systems that run them at scale.
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</br>
+## Tech stack
 
-📊 GitHub Stats:</br>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashjoshiatgit&theme=darcula&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjoshiatgit&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400" height="195" />
+<details open>
+<summary><strong>Languages</strong></summary>
+
+<p>
+  <a href="https://docs.python.org/3/" title="Python"><img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" /></a>
+  <a href="https://www.typescriptlang.org/docs/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /></a>
+  <a href="https://doc.rust-lang.org/book/" title="Rust (learning)"><img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust (learning)" /></a>
+  <a href="https://dev.java/learn/" title="Java"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /></a>
 </p>
+</details>
 
+<details open>
+<summary><strong>Frontend</strong></summary>
 
+<p>
+  <a href="https://nextjs.org/docs" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /></a>
+  <a href="https://react.dev/learn" title="React"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /></a>
+  <a href="https://redux-toolkit.js.org/" title="Redux Toolkit (RTK)"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux Toolkit (RTK)" /></a>
+  <a href="https://tailwindcss.com/docs" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" /></a>
+</p>
+</details>
 
-✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<details open>
+<summary><strong>Backend &amp; databases</strong></summary>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" /></a>
+  <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring Boot" /></a>
+  <a href="https://docs.langchain.com/" title="LangChain"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/langchain-color.svg" width="40" height="40" alt="LangChain" /></a>
+  <a href="https://docs.langchain.com/oss/python/langgraph/overview" title="LangGraph"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/langgraph-color.svg" width="40" height="40" alt="LangGraph" /></a>
+  <a href="https://www.postgresql.org/docs/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /></a>
+  <a href="https://qdrant.tech/documentation/" title="Qdrant"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/qdrant.svg" width="40" height="40" alt="Qdrant" /></a>
+</p>
+</details>
+
+<details open>
+<summary><strong>Cloud</strong></summary>
+
+<p>
+  <a href="https://learn.microsoft.com/azure/" title="Azure"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" /></a>
+  <a href="https://devcenter.heroku.com/" title="Heroku"><img src="https://skillicons.dev/icons?i=heroku" width="40" height="40" alt="Heroku" /></a>
+  <a href="https://docs.aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /></a>
+  <a href="https://vercel.com/docs" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel" /></a>
+  <a href="https://cloud.google.com/docs" title="Google Cloud"><img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="Google Cloud" /></a>
+</p>
+</details>
+
+<details open>
+<summary><strong>Tools</strong></summary>
+
+<p>
+  <a href="https://code.claude.com/docs/" title="Claude Code"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/claudecode-color.svg" width="40" height="40" alt="Claude Code" /></a>
+  <a href="https://developers.openai.com/codex/" title="Codex"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/codex-color.svg" width="40" height="40" alt="Codex" /></a>
+  <a href="https://git-scm.com/doc" title="Git"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
+  <a href="https://docs.github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
+  <a href="https://docs.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a>
+  <a href="https://code.visualstudio.com/docs" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /></a>
+</p>
+</details>
+
+## Find me here
+
+<p>
+  <a href="https://yashjoshi.me" title="Portfolio · yashjoshi.me"><img src="assets/portfolio.svg" width="30" height="30" alt="Yash Joshi’s portfolio" /></a>
+  <a href="https://www.linkedin.com/in/yashjoshiatin/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" alt="LinkedIn" /></a>
+  <a href="https://huggingface.co/YashJO" title="Hugging Face"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/huggingface-color.svg" width="30" height="30" alt="Hugging Face" /></a>
+  <a href="https://www.kaggle.com/yasshjoshi" title="Kaggle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/kaggle/kaggle-original.svg" width="30" height="30" alt="Kaggle" /></a>
+  <a href="https://medium.com/@Yash.Joshi." title="Medium"><img src="https://cdn.simpleicons.org/medium/66788A" width="30" height="30" alt="Medium" /></a>
+  <a href="https://x.com/yashjoshi_in" title="X"><img src="https://cdn.simpleicons.org/x/66788A" width="30" height="30" alt="X" /></a>
+  <a href="https://instagram.com/yashjoshi.in" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="30" height="30" alt="Instagram" /></a>
+</p>

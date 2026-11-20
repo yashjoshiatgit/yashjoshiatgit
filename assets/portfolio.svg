@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>Portfolio</title>
+  <rect width="32" height="32" rx="7" fill="#242938"/>
+  <g fill="none" stroke="#83caff" stroke-width="1.5">
+    <circle cx="16" cy="16" r="10"/>
+    <ellipse cx="16" cy="16" rx="4.6" ry="10"/>
+    <path d="M6 16h20M8 10.5q8 3 16 0M8 21.5q8-3 16 0"/>
+  </g>
+</svg>
